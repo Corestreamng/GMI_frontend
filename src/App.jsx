@@ -33,7 +33,7 @@ import GMIHub from "./pages/Programs/GMIHub";
 
 // IMPACT & RESOURCES
 import SuccessStories from "./pages/impact/success-stories";
-import KnowledgeProducts from "./pages/impact/knowledge-Products";
+import KnowledgeProducts from "./pages/impact/knowledge-products";
 import GMINews from "./pages/impact/news";
 import AnnualEvents from "./pages/impact/events";
 import Awards from "./pages/impact/awards";
