@@ -1,7 +1,7 @@
 
 import { motion } from "framer-motion";
 import { page, fadeUp, stagger } from "../../animations/variants";
-import policiesImg from "../../assets/images/transparency/policies.jpg";
+import policiesImg from "../../assets/images/transparency/Policies.jpg";
   import Footer from "../../components/layout/Footer"; 
 
 export default function OrganizationalPolicies() {
