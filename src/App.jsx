@@ -39,10 +39,10 @@ import AnnualEvents from "./pages/impact/events";
 import Awards from "./pages/impact/awards";
 
 // TRANSPARENCY
-import LegalCompliance from "./pages/Transparency/LegalCompliance";
-import Policies from "./pages/Transparency/OrganizationalPolicies";
-import Partnerships from "./pages/Transparency/Partnerships";
-import FinancialHighlights from "./pages/Transparency/FinancialHighlights";
+import LegalCompliance from "./pages/transparency/LegalCompliance";
+import Policies from "./pages/transparency/OrganizationalPolicies";
+import Partnerships from "./pages/transparency/Partnerships";
+import FinancialHighlights from "./pages/transparency/FinancialHighlights";
 
 // GET INVOLVED
 import Donate from "./pages/get-involved/Donate";
