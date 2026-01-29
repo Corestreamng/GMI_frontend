@@ -1,11 +1,11 @@
 
 import { useEffect, useRef, useState } from "react";
 
-import guardian from "../../assets/images/news/guardian.png";
+import guardian from "../../assets/images/news/Guardian.png";
 import punch from "../../assets/images/news/punch.png";
-import vanguard from "../../assets/images/news/vanguard.png";
+import vanguard from "../../assets/images/news/Vanguard.png";
 import businessday from "../../assets/images/news/businessday.png";
-import thecable from "../../assets/images/news/thecable.png";
+import thecable from "../../assets/images/news/TheCable.png";
 import unesco from "../../assets/images/news/unesco.png";
 import Leadership from "../../assets/images/news/Leadership.png";
 import MIT from "../../assets/images/news/MIT.png";
